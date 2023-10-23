@@ -1,4 +1,4 @@
-# Gee's Fitness Coaching Website
+# Fitness Coaching Website
 # Description
 A website for a trained fitness coach with knowledge of the human body, exercise,and nutrition, in which the coach will communicate,share information on workout plans, diet plans, manaage payments and bookings
 # System Backlog
