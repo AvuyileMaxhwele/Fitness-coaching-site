@@ -1,0 +1,29 @@
+Name: Avuyile Maxhwele
+Age: 20
+Height: 156
+Weight: 50
+Fitness Goals: Fitness goals:
+
+Fitness Goals: 
+Name: Anathi will
+Age: 20
+Height: 154
+Weight: 50
+Fitness Goals: enter your goals
+
+Name: Sive May
+Age: 20
+Height: 154
+Weight: 53
+Fitness Goals: fitness goals here
+Name: Siya Bless
+Age: 20
+Height: 156
+Weight: 70
+Fitness Goals: enter your goals
+
+Name: Siya Bless
+Age: 20
+Height: 154
+Weight: 50
+Fitness Goals: your goals
