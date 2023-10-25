@@ -13,3 +13,6 @@ Fitness Coach will be able to:
  - Manage client's nutrition
  - Customize payment plan for each clients
  - View scheduale and booked sessions
+ - 
+The following link is for the fitness website
+https://sites.google.com/myuwc.ac.za/geesfitnesscoaching/home
